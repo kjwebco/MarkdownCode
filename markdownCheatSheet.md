@@ -28,9 +28,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[KJWEBCO.com](http://www.KJWEBCO.com)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[KJWEBCO.com](http://www.KJWEBCO.com "KJWEBCO.com")
 
 <!-- UL -->
 * Item 1
